@@ -1,0 +1,2 @@
+# Idiota
+Minha primeira IA
